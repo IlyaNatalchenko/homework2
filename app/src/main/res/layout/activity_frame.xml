@@ -8,9 +8,16 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/textview" />
+
         <Space
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="512dp"
             android:layout_weight="1" />
 
         <LinearLayout

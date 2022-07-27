@@ -16,5 +16,6 @@
     <string name="multiply">*</string>
     <string name="divide">/</string>
     <string name="smooth">=</string>
+    <string name="textview">TextView</string>
 
 </resources>
